@@ -1,0 +1,5 @@
+package com.arnaldojsfilho.myfristproject.entities;
+
+public class Category {
+
+}

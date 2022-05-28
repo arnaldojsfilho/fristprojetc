@@ -1,0 +1,5 @@
+package com.arnaldojsfilho.myfristproject.repositories;
+
+public class CategoryRepository {
+
+}
